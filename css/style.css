@@ -44,7 +44,10 @@ main {
     border: 1px solid rgb(78, 135, 114);
 }
 footer {
+    display: flex;
     border: 1px solid rgb(78, 135, 114);
+    justify-content: space-around;
+    padding-top: 10px;
 }
 .main-container {
     display: flex;
